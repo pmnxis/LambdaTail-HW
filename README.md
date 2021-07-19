@@ -11,6 +11,9 @@ Monitor vend side device such as paper or coin acceptor at top connector. And th
 
 While monitor vend side, send signal to server or process something.
 
+## Schematics
+[Schematic](doc/LambdaTail-HW.pdf)
+
 ## Simplified characteristics
 | Parameter | Min | Typ | Max | Unit | 
 | --- | --- | --- | --- | --- |
