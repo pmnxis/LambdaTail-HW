@@ -16,6 +16,7 @@ While monitor vend side, send signal to server or process something.
 | --- | --- | --- | --- | --- |
 | Voltage Power Supply | 4.5 | 12  | 16  | V  |
 | Current Consumption  | 50  | 100 | 400 | mA |
+| Dimenssion | | 55 x 55 x 16 | | mm
 
 ## Dependancy of footprint library
  - https://github.com/pmnxis/Lambda_KICAD5_LIB
