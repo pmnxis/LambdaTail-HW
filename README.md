@@ -3,6 +3,8 @@
 **Open source IoT node for arcade game**
 
 The goal of this repository is to make **Rust** + **RISC-V** + **Kicad6** based hardware.
+And IoT node should be published to large number of devices. So aimed to manufacture with low-cost with less-BOM.
+
 
 ## How works
 Monitor vend side device such as paper or coin acceptor at top connector. And then reflect or modify signal to bottom side's connector. 
