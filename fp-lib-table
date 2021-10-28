@@ -21,4 +21,6 @@
   (lib (name "Package_DFN_QFN_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/PcbLib/Package_DFN_QFN_Extended.pretty")(options "")(descr ""))
   (lib (name "Package_SO_Extended")(type "KiCad")(uri "${LAMBDA_LIB_DIR}/PcbLib/Package_SO_Extended.pretty")(options "")(descr ""))
   (lib (name "LambdaToy_Static")(type "KiCad")(uri "${KIPRJMOD}/Library/LambdaToy_Static.pretty")(options "")(descr ""))
+  (lib (name "libraries")(type "KiCad")(uri "C:/Users/pmnxis/Develop/kicad-libraries/libraries")(options "")(descr ""))
+  (lib (name "Molex-50513")(type "KiCad")(uri "C:/Users/pmnxis/Develop/PapoutPSM-HW/Library/Molex-50513.pretty")(options "")(descr ""))
 )
